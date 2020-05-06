@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+navbar{
+	padding: .8rem;
+}
+.carousel-inner img{
+	height: 100%;
+	width: 100%;
+}
+.carousel-caption{
+	position: absolute;
+	top: 50%;
+	color: #223343;
+	transform: translateY(-100%);
+	text-shadow: 1px 1px 10px #000;
+	font-weight: 500%;
+	padding-bottom: 1rem;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.btn-primary {
+	
+	border: 1px solid #6648b1
+}
+
+.btn-primary:hover{
+	
+	border: 1px solid #563d7c
+}
+
+
+.card-block:hover {
+	background: rgb(201, 196, 233);
+	opacity: 0.3;
+	color: #223343;
+}
+
+.mynewclass {
+    background-color:white;
+	border: solid blue 5px;
+} 
